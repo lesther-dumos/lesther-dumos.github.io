@@ -7,33 +7,38 @@ lestherdumosmog@gmail.com
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
 
-# Work Experience (only last 10 years)
+# Work Experience
+## Data Entry
+1. Job position required entering data of WSDOT information. Highly **secured information** containing personal information of users. 
+2. Averaged 3,000 - 4,000 entries a day. Job required **high accruacy** in entering Plate Numbers, Juridiction, and recongize patterns to dictate vehicle origins.
 
-## University Name 1 (City, State)
+## Warehouse Associate
+1. Process included reciveing packages and **dividing** the packages based on the distirbution location.
+2. Job required to be on feet and lifting heavy packages if neceesary. High **collaborative** work with others. 
 
-* [University 1][] description, particularly if not well-known.*
+## University of Washington (Seattle, Washington)
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+### [UW Homepage](https://www.washington.edu/) 
 
-Summary of your role
+The University of Washington, Seattle, stands out as a top-notch public research university wiithin Washington. They hold many undergraduate and graduate programs for fullfilling careers. 
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+*Undergraudate Student(Majoring in GIS) C/O 2025*
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+Summary of my exeprience
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+- Courses included **wrangling** with large amounts of data. Transforming the data into a readable visualizations via **R and Python**.
+- **Create interactive** websites containing maps representing data in diverse ways
+- Understand policies in data and the moral compasses when dealing with data.
 
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## Green RIver Community College (Auburn, Washington)
+### [Greenriver Homepage](https://www.greenriver.edu/)
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
+Green River College, located in Auburn, Washington, is a vibrant community college offering diverse programs and a supportive environment for students to excel academically and personally.
+
+*Running Start Student (College courses while in Highschool) C/O 2021*
+Summary of my experience
+
+- **Balance** both highschool and college credits while being active in sports
+- Allowed me to gain two years of credits while still in Highschool
+- **Colloborated** and created projects with others
