@@ -17,6 +17,7 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 2. Job required to be on feet and lifting heavy packages if neceesary. High **collaborative** work with others. 
 
 ## University of Washington (Seattle, Washington)
+![UW Quad](https://uploads.visitseattle.org/2015/03/24094732/Nabes-UW-Quad_ciStock-768x512.jpg)
 
 ### [UW Homepage](https://www.washington.edu/) 
 
@@ -31,6 +32,7 @@ Summary of my exeprience
 - Understand policies in data and the moral compasses when dealing with data.
 
 ## Green RIver Community College (Auburn, Washington)
+![Green River](https://www.greenriver.edu/media/content-assets/images/international/salish-hall-drone.jpg)
 ### [Greenriver Homepage](https://www.greenriver.edu/)
 
 
