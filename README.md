@@ -1,11 +1,6 @@
 # Lesther Dumosmog
 
-lestherdumosmog@gmail.com
-
-
-# Summary
-
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Click here to be redirected to resume: [Lesther Dumosmog Resume](https://lesther-dumos.github.io/startbootstrap-resume-gh-pages/index.html)
 
 # Work Experience
 ## Data Entry
