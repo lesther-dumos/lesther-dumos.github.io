@@ -1,6 +1,6 @@
 # Lesther Dumosmog
 
-Click here to be redirected to resume: [Lesther Dumosmog Resume](https://lesther-dumos.github.io/startbootstrap-resume-gh-pages/index.html)
+Click here to be redirected to resume: [Lesther Dumosmog Resume](https://lesther-dumos.github.io/)
 
 # Work Experience
 ## Data Entry
